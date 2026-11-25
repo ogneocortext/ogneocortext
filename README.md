@@ -1,3 +1,5 @@
+<p align="center"><img src="diamond-star-enterprises-logo-A.png" width="180" alt="Diamond Star Enterprises LLC logo" /></p>p>
+
 # NeoCortext
 
 Independent developer. I've been working online since 2008, when I sold my first website template through Craigslist. I was mentored by two partners (a relationship dating to 2004) and built two short-lived websites with them — a first site in 2010, then a furniture site in 2017, monetized with display ads and Amazon affiliate links, that ran for a few months. I ran a freelance marketplace business at ~$2,000/month at its peak, drove professionally across the Phoenix metro — and I now build software by directing AI coding agents: I write the specs and plans, set the verification gates, review what lands, and keep the reasoning in the commit history.
