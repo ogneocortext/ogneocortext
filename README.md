@@ -1,4 +1,4 @@
-<p align="center"><img src="diamond-star-enterprises-logo-A.png" width="180" alt="Diamond Star Enterprises LLC logo" /></p>p>
+<p align="center"><img src="diamond-star-enterprises-logo-A.png" width="180" alt="Diamond Star Enterprises LLC logo" /></p>
 
 # NeoCortext
 
